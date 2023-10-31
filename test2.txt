@@ -1,0 +1,1 @@
+check that checking webhook to the static ip is correct, and synced to jenkins.
